@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1446682871 source:c:\users\kenco_000\documents\codeblocks\he #12\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+
+1446682871 source:c:\users\kenco_000\documents\codeblocks\hw #12\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+
+1446682871 source:c:\users\kenco_000\school\c++ projects\cs1\hw #12\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+

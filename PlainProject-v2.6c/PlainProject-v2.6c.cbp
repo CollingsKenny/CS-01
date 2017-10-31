@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="PlainProject-v2.6c" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Release">
+				<Option output="bin/Release/PlainProject-v2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+					<Add directory="." />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+			<Add directory="include" />
+		</Compiler>
+		<Linker>
+			<Add library="libgdi32.a" />
+		</Linker>
+		<Unit filename="include/CImg.h" />
+		<Unit filename="include/bst.h" />
+		<Unit filename="include/cmpfn.h" />
+		<Unit filename="include/foreach.h" />
+		<Unit filename="include/grid.h" />
+		<Unit filename="include/lexicon.h" />
+		<Unit filename="include/lpclib.h" />
+		<Unit filename="include/map.h" />
+		<Unit filename="include/private/bst.h" />
+		<Unit filename="include/private/graphics.h" />
+		<Unit filename="include/private/grid.h" />
+		<Unit filename="include/private/map.h" />
+		<Unit filename="include/private/queue.h" />
+		<Unit filename="include/private/scanner.h" />
+		<Unit filename="include/private/set.h" />
+		<Unit filename="include/private/stack.h" />
+		<Unit filename="include/private/vector.h" />
+		<Unit filename="include/queue.h" />
+		<Unit filename="include/scanner.h" />
+		<Unit filename="include/set.h" />
+		<Unit filename="include/stack.h" />
+		<Unit filename="include/vector.h" />
+		<Unit filename="libsrc/lexicon.cpp" />
+		<Unit filename="libsrc/lpclib.cpp" />
+		<Unit filename="libsrc/lpclib_console.cpp" />
+		<Unit filename="libsrc/lpclib_convert.cpp" />
+		<Unit filename="libsrc/lpclib_graphics.cpp" />
+		<Unit filename="libsrc/lpclib_random.cpp" />
+		<Unit filename="libsrc/lpclib_tests.cpp" />
+		<Unit filename="libsrc/scanner.cpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1449097547 source:c:\users\kenco_000\documents\codeblocks\13\main.cpp
+	<iostream>
+	<iomanip>
+	<fstream>
+	<cstdio>
+	<vector>
+	<cmath>
+

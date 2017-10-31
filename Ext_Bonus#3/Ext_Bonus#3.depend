@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1444690006 source:c:\users\kenco_000\documents\codeblocks\ext_bonus#3\main.cpp
+	<cstdlib>
+	<iostream>
+	<ctime>
+	<climits>
+

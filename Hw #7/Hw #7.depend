@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1444089260 source:c:\users\kenco_000\documents\codeblocks\hw #7\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<vector>
+	<istream>
+	<iomanip>
+	<cmath>
+

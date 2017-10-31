@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1445902185 source:c:\users\kenco_000\documents\codeblocks\quiz #3\main.cpp
+	<iostream>
+	<fstream>
+	<sstream>
+	<cstring>
+

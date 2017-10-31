@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1444262299 source:c:\users\kenco_000\documents\codeblocks\midtermprogramming\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	<istream>
+	<sstream>
+

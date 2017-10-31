@@ -1,0 +1,293 @@
+# depslib dependency file v1.0
+1347920519 source:c:\users\colin schatz\desktop\plainproject-v2.6c\libsrc\lexicon.cpp
+	"lexicon.h"
+	"lpclib.h"
+	<fstream>
+	<cstring>
+	<algorithm>
+	"foreach.h"
+
+1421434924 c:\users\colin schatz\desktop\plainproject-v2.6c\include\lexicon.h
+	<string>
+	<set>
+	"lpclib.h"
+	<cctype>
+
+1365785169 c:\users\colin schatz\desktop\plainproject-v2.6c\include\lpclib.h
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1347920811 c:\users\colin schatz\desktop\plainproject-v2.6c\include\foreach.h
+	<ios>
+	<fstream>
+	<sstream>
+
+1421433019 source:c:\users\colin schatz\desktop\plainproject-v2.6c\libsrc\lpclib.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<stdarg.h>
+	<map>
+	"lpclib.h"
+
+1378358912 source:c:\users\colin schatz\desktop\plainproject-v2.6c\libsrc\lpclib_console.cpp
+	<iostream>
+	<sstream>
+	<conio.h>
+	<stdlib.h>
+	"lpclib.h"
+
+1329591451 source:c:\users\colin schatz\desktop\plainproject-v2.6c\libsrc\lpclib_convert.cpp
+	<iostream>
+	<sstream>
+	"lpclib.h"
+
+1421433491 source:c:\users\colin schatz\desktop\plainproject-v2.6c\libsrc\lpclib_graphics.cpp
+	<iostream>
+	<map>
+	"CImg.h"
+	"lpclib.h"
+	"vector.h"
+
+1363233680 c:\users\colin schatz\desktop\plainproject-v2.6c\include\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1346342965 c:\users\colin schatz\desktop\plainproject-v2.6c\include\vector.h
+	"lpclib.h"
+	"foreach.h"
+	"private/vector.h"
+	"private/vector.cpp"
+
+1315184210 c:\users\colin schatz\desktop\plainproject-v2.6c\include\private\vector.h
+
+1347920432 c:\users\colin schatz\desktop\plainproject-v2.6c\include\private\vector.cpp
+
+1331784508 source:c:\users\colin schatz\desktop\plainproject-v2.6c\libsrc\lpclib_random.cpp
+	<iostream>
+	<stdlib.h>
+	"lpclib.h"
+
+1365785477 source:c:\users\colin schatz\desktop\plainproject-v2.6c\libsrc\lpclib_tests.cpp
+	"lpclib.h"
+	"lexicon.h"
+	"scanner.h"
+	<map>
+
+1346877067 c:\users\colin schatz\desktop\plainproject-v2.6c\include\scanner.h
+	"lpclib.h"
+	"stack.h"
+	<string>
+	<iostream>
+	"private/scanner.h"
+
+1315184210 c:\users\colin schatz\desktop\plainproject-v2.6c\include\stack.h
+	"vector.h"
+	"private/stack.h"
+	"private/stack.cpp"
+
+1315184210 c:\users\colin schatz\desktop\plainproject-v2.6c\include\private\stack.h
+
+1315184210 c:\users\colin schatz\desktop\plainproject-v2.6c\include\private\stack.cpp
+
+1346879436 c:\users\colin schatz\desktop\plainproject-v2.6c\include\private\scanner.h
+
+1365784142 source:c:\users\colin schatz\desktop\plainproject-v2.6c\libsrc\scanner.cpp
+	"scanner.h"
+	<cctype>
+	<iostream>
+
+1421435014 source:c:\users\colin schatz\desktop\plainproject-v2.6c\main.cpp
+	"lpclib.h"
+
+1441055329 source:c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\libsrc\lexicon.cpp
+	"lexicon.h"
+	"lpclib.h"
+	<fstream>
+	<cstring>
+	<algorithm>
+	"foreach.h"
+
+1441055326 c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\include\lexicon.h
+	<string>
+	<set>
+	"lpclib.h"
+	<cctype>
+
+1441055326 c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\include\lpclib.h
+	<string>
+	<iostream>
+	<iomanip>
+	<fstream>
+
+1441055326 c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\include\foreach.h
+	<ios>
+	<fstream>
+	<sstream>
+
+1441055329 source:c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\libsrc\lpclib.cpp
+	<iostream>
+	<ctime>
+	<stdlib.h>
+	<stdarg.h>
+	<map>
+	"lpclib.h"
+
+1441055329 source:c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\libsrc\lpclib_console.cpp
+	<iostream>
+	<sstream>
+	<conio.h>
+	<stdlib.h>
+	"lpclib.h"
+
+1441055329 source:c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\libsrc\lpclib_convert.cpp
+	<iostream>
+	<sstream>
+	"lpclib.h"
+
+1441055329 source:c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\libsrc\lpclib_graphics.cpp
+	<iostream>
+	<map>
+	"CImg.h"
+	"lpclib.h"
+	"vector.h"
+
+1441055326 c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\include\cimg.h
+	<cstdio>
+	<cstdlib>
+	<cstdarg>
+	<cstring>
+	<cmath>
+	<ctime>
+	<exception>
+	<sys/types.h>
+	<sys/time.h>
+	<unistd.h>
+	<windows.h>
+	<shlobj.h>
+	<io.h>
+	<stdio.h>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/keysym.h>
+	<pthread.h>
+	<sys/ipc.h>
+	<sys/shm.h>
+	<X11/extensions/XShm.h>
+	<X11/extensions/Xrandr.h>
+	"omp.h"
+	<cstddef>
+	"cv.h"
+	"highgui.h"
+	"png.h"
+	"jpeglib.h"
+	"setjmp.h"
+	"tiffio.h"
+	"minc2.h"
+	"avformat.h"
+	"avcodec.h"
+	"swscale.h"
+	"zlib.h"
+	"Magick++.h"
+	"fftw3.h"
+	"Board.h"
+	"ImfRgbaFile.h"
+	"ImfInputFile.h"
+	"ImfChannelList.h"
+	"ImfMatrixAttribute.h"
+	"ImfArray.h"
+	"CImg.h"
+
+1441055326 c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\include\vector.h
+	"lpclib.h"
+	"foreach.h"
+	"private/vector.h"
+	"private/vector.cpp"
+
+1441055327 c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\include\private\vector.h
+
+1441055327 c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\include\private\vector.cpp
+
+1441055329 source:c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\libsrc\lpclib_random.cpp
+	<iostream>
+	<stdlib.h>
+	"lpclib.h"
+
+1441055329 source:c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\libsrc\lpclib_tests.cpp
+	"lpclib.h"
+	"lexicon.h"
+	"scanner.h"
+	<map>
+
+1441055326 c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\include\scanner.h
+	"lpclib.h"
+	"stack.h"
+	<string>
+	<iostream>
+	"private/scanner.h"
+
+1441055326 c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\include\stack.h
+	"vector.h"
+	"private/stack.h"
+	"private/stack.cpp"
+
+1441055327 c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\include\private\stack.h
+
+1441055327 c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\include\private\stack.cpp
+
+1441055327 c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\include\private\scanner.h
+
+1441055329 source:c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\libsrc\scanner.cpp
+	"scanner.h"
+	<cctype>
+	<iostream>
+
+1441234454 source:c:\users\kenco_000\documents\codeblocks\plainproject-v2.6c\main.cpp
+	"lpclib.h"
+	<conio.h>
+	<iostream>
+

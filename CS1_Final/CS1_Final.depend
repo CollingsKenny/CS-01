@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1449703643 source:c:\users\kenco_000\documents\codeblocks\cs1_final\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<math.h>
+	<string.h>
+
+1449703823 source:c:\users\kenco_000\school\c++ projects\cs1\cs1_final\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<math.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+The amount of valid scores is:     7
+The valid scores are:     18;32;82;34;0;66;90;
+The average score is:     6.98767e+258
+====
+The amount of invalid scores is:     3
+The invalid scores are:     O;-4;101;
